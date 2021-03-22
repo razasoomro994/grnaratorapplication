@@ -1,0 +1,41 @@
+
+
+.navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large !important; font-weight: 900; color:  rgb(20, 20, 87) !important; 
+}
+
+.nav-item{
+     padding-left: 30px !important;
+     font-size: x-large; color:  rgb(20, 20, 87) !important;
+     font-family: monospace;
+}
+.nav-link{
+    color:  rgb(20, 20, 87) !important; 
+}
+.nav-link:hover{
+    
+ 
+    background-color: gray; 
+    color: black;
+    border: solid 2px;
+    
+ 
+}
+.info{
+    text-align: center; text-decoration: underline; 
+    color: rgb(20, 20, 87);
+    font-family: monospace;
+    
+}
+    
+.form-label{
+    color:rgb(20, 20, 87); 
+    font-family: monospace; font-weight: bolder; font-size: xx-large;
+}
+
+
+.cont{
+    background-color: rgb(175, 166, 167) ; border-style: solid dashed; border-width: 3px;
+    text-align: center; color: rgb(20, 20, 87);
+}

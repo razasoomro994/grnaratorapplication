@@ -1,0 +1,31 @@
+.navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large !important; font-weight: 900; color: rgb(20, 20, 87) !important; 
+    padding-right: 20px; 
+}
+
+.nav-item{
+    padding-left: 30px !important;
+    font-size: x-large; color: rgb(238, 238, 245) !important;
+    font-family: monospace;
+}
+.nav-link{
+   color: rgb(20, 20, 87)!important; 
+}
+.nav-link:hover{
+   border: groove 2px;
+background-color:rgb(159, 163, 165); 
+
+border: solid 2px;
+
+}
+
+.form-label{
+    font-weight: bolder;  color: rgb(20, 20, 87)!important;
+    font-size:  large;
+}
+
+.cont{
+    background-color:  rgb(175, 166, 167) ; border-style: solid dashed; border-width: 3px;
+    text-align: center; width: 100% !important; color: rgb(34, 27, 27);
+}
