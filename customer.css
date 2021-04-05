@@ -1,4 +1,12 @@
+.navbar{
+    border-style: solid !important; 
+       
+}
 
+.bg-custom{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+      
+}
 
 .navbar-brand {
     font-family: 'Courier New', Courier, monospace;
@@ -15,13 +23,19 @@
 }
 .nav-link:hover{
     
- 
-    background-color: gray; 
+    font-family: cursive;
+    background-color:rgb(169, 222, 238); 
     color: black;
     border: solid 2px;
-    
+    border-radius: 8px;
  
 }
+
+.form-label{
+    font-weight: bolder;  color: rgb(20, 20, 87)!important;
+    font-size:  large;
+}
+
 .info{
     text-align: center; text-decoration: underline; 
     color: rgb(20, 20, 87);
@@ -34,8 +48,14 @@
     font-family: monospace; font-weight: bolder; font-size: xx-large;
 }
 
+.btn-primary{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+
+}
 
 .cont{
-    background-color: rgb(175, 166, 167) ; border-style: solid dashed; border-width: 3px;
+ border-style: solid dashed; border-width: 3px;
+ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+
     text-align: center; color: rgb(20, 20, 87);
 }

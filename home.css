@@ -1,4 +1,10 @@
+.navbar{
+    border: solid !important;
+}
 
+  .bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  }
 
 .navbar-brand {
     font-family: 'Courier New', Courier, monospace;
@@ -6,20 +12,24 @@
 }
 
 .nav-item{
-     padding-left: 30px !important;
+     padding-left: 10px !important;
      font-size: x-large; color: rgb(238, 238, 245) !important;
      font-family: monospace;
+     
 }
+
+
+         
 
 .nav-link{
     color: rgb(20, 20, 87)!important; 
 }
 .nav-link:hover{
     border: groove 2px;
- background-color:rgb(159, 163, 165); 
- 
+ background-color:rgb(169, 222, 238); 
+ font-family: cursive;
  border: solid 2px;
- 
+ border-radius: 8px;
 }
 .info{
     text-align: center; text-decoration: underline; 
@@ -38,7 +48,8 @@
 
 
 .cont{
-    background-color:  rgb(175, 166, 167) ; border-style: solid dashed; border-width: 3px;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    border-style: solid dashed; border-width: 3px;
     text-align: center; width: 100% !important; color: rgb(34, 27, 27);
 }
 
@@ -50,10 +61,11 @@
     text-align: center; font-family: fantasy; font-size: xx-large;  color: rgb(226, 226, 236);
 }
 .bgt{
-    background-color: rgb(175, 166, 167) !important;   height: 100px;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    height: 100px;
     box-shadow: black 2px 4px 6px 7px; 
 }
-
+/* 
 .btn:hover{
     background-color: rgb(132, 132, 167);
    color: steelblue;
@@ -61,6 +73,8 @@
 }
 
 .btn{
-    background-color: rgb(43, 49, 54)important; font-weight: bolder !important;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    font-weight: bolder !important;
+    color: white !important;
 }
-
+ */

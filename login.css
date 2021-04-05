@@ -3,9 +3,23 @@
     font-size:xx-large !important; font-weight: 900; color: rgb(20, 20, 87) !important; 
     padding-right: 20px; 
 }
+.navbar{
+    border: solid;
+}
 
+.bg-custom{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);      
+}
+
+
+.info{
+    text-align: center; 
+    color: rgb(20,20,87);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
 .nav-item{
-    padding-left: 30px !important;
+    padding-left: 10px !important;
     font-size: x-large; color: rgb(238, 238, 245) !important;
     font-family: monospace;
 }
@@ -14,18 +28,23 @@
 }
 .nav-link:hover{
    border: groove 2px;
-background-color:rgb(159, 163, 165); 
-
+   background-color:rgb(169, 222, 238); 
+border-radius: 8px;
 border: solid 2px;
+font-family: cursive;
 
 }
-
 .form-label{
     font-weight: bolder;  color: rgb(20, 20, 87)!important;
     font-size:  large;
 }
 
+.btn-primary{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);      
+
+}
 .cont{
-    background-color:  rgb(175, 166, 167) ; border-style: solid dashed; border-width: 3px;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);      
+    border-style: solid dashed; border-width: 3px;
     text-align: center; width: 100% !important; color: rgb(34, 27, 27);
 }

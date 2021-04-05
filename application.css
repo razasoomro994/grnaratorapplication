@@ -1,0 +1,65 @@
+
+.navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large !important; font-weight: 900; color: rgb(20, 20, 87) !important; 
+}
+
+.nav-item{
+     padding-left: 10px !important;
+     font-size: x-large; color: rgb(238, 238, 245) !important;
+     font-family: monospace;
+}
+
+.bg-custom{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+.navbar{
+    border:solid !important;
+}
+
+
+.nav-link{
+    color: rgb(20, 20, 87)!important; 
+}
+.nav-link:hover{
+    border: groove 2px;
+    background-color:rgb(169, 222, 238); 
+ font-family: cursive;
+ border: solid 2px;
+ border-radius: 8px;
+ 
+}
+
+.info{
+    text-align: center;  color: rgb(20, 20, 87) ;
+    font-family: sans-serif;
+}
+    
+.ps{
+    padding-left: 125px;
+}
+
+
+.form-label{
+    font-weight: bolder;  color: rgb(20, 20, 87)!important;
+    font-size:  large;
+}
+
+.btn-primary{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+
+.cont{
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%); border-style: solid dashed; border-width: 3px;
+    text-align: center; width: 100% !important; color: rgb(34, 27, 27);
+}
+
+
+
+
+
+
+
+
